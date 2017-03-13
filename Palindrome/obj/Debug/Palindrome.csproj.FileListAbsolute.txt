@@ -1,0 +1,6 @@
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\John\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
